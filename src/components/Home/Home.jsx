@@ -6,7 +6,7 @@ const Home = () => {
 
     return (
         <div>
-            <h2>This is a home components</h2>
+            {/* <h2>This is a home components</h2> */}
             <Navbar></Navbar>
             <Outlet></Outlet>
             <Footer></Footer>
